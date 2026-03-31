@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Blog de Culinária - Exercício</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+
+  <div class="container">
+
+    <!-- 1. CABEÇALHO (Centralizado e Ocupando tudo) -->
+    <header class="cabecalho">
+      <div class="logotipo">👨‍🍳 Chef em Casa</div>
+      <nav class="menu">
+        <a href="#">Receitas</a>
+        <a href="#">Dicas de Cozinha</a>
+        <a href="#">Sobre o Chef</a>
+      </nav>
+    </header>
+
+    <!-- 2. BARRA LATERAL (Agora movida para antes do Conteúdo Principal) -->
+    <aside class="bloco-branco barra-lateral">
+      <h3>Menu do Dia</h3>
+      <ul class="lista-categorias">
+        <li>🍰 Doces & Bolos</li>
+        <li>🍝 Massas Frescas</li>
+        <li>🥗 Saladas Fit</li>
+        <li>🍔 Lanches Rápidos</li>
+        <li>☕ Acompanhamentos</li>
+      </ul>
+    </aside>
+
+    <!-- 3. CONTEÚDO PRINCIPAL (Receitas com "Fotos") -->
+    <main class="bloco-branco conteudo">
+      <h2>Últimas Delícias</h2>
+      
+      <div class="grid-receitas">
+        <article class="cartao">
+          <img src="img/bolo-cenoura.jpg" alt="Fatia de bolo" class="foto-receita">
+          <h3>Bolo de Cenoura</h3>
+          <p>Massa fofinha e cobertura de chocolate com aquela casquinha crocante inesquecível.</p>
+        </article>
+        
+        <article class="cartao">
+          <img src="img/lasanha.jpg" alt="Lasanha" class="foto-receita">
+          <h3>Lasanha Clássica</h3>
+          <p>A tradicional receita italiana com molho à bolonhesa caseiro e muito queijo gratinado.</p>
+        </article>
+
+        <article class="cartao">
+          <img src="img/pao.jpg" alt="Pão caseiro" class="foto-receita">
+          <h3>Pão Caseiro Fácil</h3>
+          <p>Não precisa sovar! Receita rápida que garante um pão quentinho para o café da tarde.</p>
+        </article>
+
+        <article class="cartao">
+          <img src="img/mousse-limao.jpg" alt="Mousse e sobremesa" class="foto-receita">
+          <h3>Mousse Fit de Limão</h3>
+          <p>Sobremesa super refrescante, pronta em 10 minutos e com pouquíssimas calorias.</p>
+        </article>
+      </div>
+    </main>
+
+    <!-- 4. RODAPÉ -->
+    <footer class="rodape">
+      <p>&copy; 2026 Chef em Casa. Feito com ❤️ e muita fome na aula de Web.</p>
+    </footer>
+
+  </div>
+
+</body>
+</html>
