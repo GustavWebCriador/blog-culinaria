@@ -9,9 +9,10 @@
 <br>
 
 ### 🍰 Receitas • 🍝 Massas • 🥗 Saladas • 🍔 Lanches
-### <a href="https://gustavwebcriador.github.io/blog-culinaria/" target="_blank">
-   <img src="https://img.shields.io/badge/🚀%20Project%20Preview-E63946?style=for-the-badge&logoColor=white" alt="Preview do Projeto">
-    </a>
+    
+<a href="https://gustavwebcriador.github.io/blog-culinaria/" target="_blank">
+<img src="https://img.shields.io/badge/🚀%20Project%20Preview-E63946?style=for-the-badge&logoColor=white" alt="Preview do Projeto">
+</a>
 
 
 
@@ -64,32 +65,6 @@ A interface foi pensada para proporcionar uma experiência simples e intuitiva.
 A estrutura principal utiliza um **layout em Grid**, dividido entre uma barra lateral de categorias e uma área principal destinada às receitas.
 
 O cabeçalho ocupa toda a largura do conteúdo e apresenta a identidade do projeto juntamente com o menu de navegação.
-
-### Estrutura visual
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                  👨‍🍳 CHEF EM CASA                    │
-│          RECEITAS | DICAS | SOBRE O CHEF             │
-├──────────────────┬───────────────────────────────────┤
-│                  │                                   │
-│   MENU DO DIA    │          ÚLTIMAS DELÍCIAS         │
-│                  │                                   │
-│ 🍰 Doces & Bolos │   ┌──────────┐  ┌──────────┐      │
-│ 🍝 Massas Frescas│   │  Receita │  │  Receita │      │
-│ 🥗 Saladas Fit   │   │    01    │  │    02    │      │
-│ 🍔 Lanches       │   └──────────┘  └──────────┘      │
-│ ☕ Acompanhamentos│                                  │
-│                  │   ┌──────────┐  ┌──────────┐      │
-│                  │   │  Receita │  │  Receita │      │
-│                  │   │    03    │  │    04    │      │
-│                  │   └──────────┘  └──────────┘      │
-├──────────────────┴───────────────────────────────────┤
-│                       FOOTER                          │
-└──────────────────────────────────────────────────────┘
-```
-
----
 
 ## 🍽️ Funcionalidades
 
