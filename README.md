@@ -4,11 +4,16 @@
 
 <div align="center">
 
-<img src="./img/bolo-cenoura.jpg" alt="Chef em Casa" width="700">
+<img src="./img/preview-interface.png" alt="Chef em Casa" width="700">
 
 <br>
 
 ### 🍰 Receitas • 🍝 Massas • 🥗 Saladas • 🍔 Lanches
+### <a href="https://gustavwebcriador.github.io/blog-culinaria/" target="_blank">
+   <img src="https://img.shields.io/badge/🚀%20Project%20Preview-E63946?style=for-the-badge&logoColor=white" alt="Preview do Projeto">
+    </a>
+
+
 
 </div>
 
